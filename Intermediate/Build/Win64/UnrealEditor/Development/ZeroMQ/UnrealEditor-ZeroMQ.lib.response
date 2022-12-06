@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ZeroMQ.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal\ZeroMQ5\Intermediate\Build\Win64\ZeroMQ5Editor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
+"E:\Unreal\ZeroMQ5\Plugins\ZeroMQ\Intermediate\Build\Win64\UnrealEditor\Development\ZeroMQ\ZeroMQ.cpp.obj"
+"E:\Unreal\ZeroMQ5\Plugins\ZeroMQ\Intermediate\Build\Win64\UnrealEditor\Development\ZeroMQ\Default.rc2.res"
+/OUT:"E:\Unreal\ZeroMQ5\Plugins\ZeroMQ\Intermediate\Build\Win64\UnrealEditor\Development\ZeroMQ\UnrealEditor-ZeroMQ.lib"

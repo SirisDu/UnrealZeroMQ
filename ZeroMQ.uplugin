@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "4.3.4",
+	"FriendlyName": "ZeroMQ",
+	"Description": "ZeroMQ x64 using cppzmq",
+	"Category": "Other",
+	"CreatedBy": "Jianrui Du",
+	"CreatedByURL": "",
+	"DocsURL": "https://github.com/zeromq/cppzmq",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ZeroMQ",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

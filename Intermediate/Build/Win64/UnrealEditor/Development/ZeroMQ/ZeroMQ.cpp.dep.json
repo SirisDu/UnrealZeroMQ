@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal\\zeromq5\\plugins\\zeromq\\source\\zeromq\\private\\zeromq.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal\\zeromq5\\intermediate\\build\\win64\\zeromq5editor\\development\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unreal\\zeromq5\\plugins\\zeromq\\intermediate\\build\\win64\\unrealeditor\\development\\zeromq\\definitions.zeromq.h",
+            "e:\\unreal\\zeromq5\\plugins\\zeromq\\source\\zeromq\\public\\zeromq.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
