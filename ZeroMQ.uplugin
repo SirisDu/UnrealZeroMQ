@@ -9,7 +9,7 @@
 	"CreatedByURL": "",
 	"DocsURL": "https://github.com/zeromq/cppzmq",
 	"MarketplaceURL": "",
-	"SupportURL": "",
+	"SupportURL": "https://github.com/SirisDu/UnrealZeroMQ",
 	"CanContainContent": false,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
